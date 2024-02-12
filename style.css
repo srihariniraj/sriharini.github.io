@@ -1,0 +1,91 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    background-color:gray;
+    color: beige;
+    padding: 20px;
+}
+li,h1,ul{
+    display: inline;
+
+}
+ul{
+    padding-left: 55pc;
+}
+li{
+    color: palevioletred;
+    cursor: pointer;
+}
+li:hover{
+    color: black;
+}
+img{
+    background-color:grey;
+}
+table{
+    padding-top:30px;
+    padding-left: 14pc;
+}
+.box{
+   border-color: white;
+   border: width 20px;
+   border-style: solid;
+   display: inline-block;
+   width: 300px;
+   
+
+}
+.box:hover{
+    background-color: rgb(212, 41, 98);
+    cursor: pointer;
+
+}
+.objective{
+    text-align: center;
+    padding-top: 20px;
+    background-color: black;
+    color: white;}
+    .objective :hover{
+        background-color: rgb(2, 24, 24);
+        color: palevioletred;
+        cursor: pointer;
+    }
+
+    .contact{
+        background-color: rgb(243, 247, 245);
+        color: black;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .contact :hover{
+        cursor: pointer;
+        color: brown;
+    }
+
+    .ABOUT{
+        background-color:grey;
+        
+    }
+    .ABOUT :hover{
+        background-color: black;
+        color: palegreen;
+    }
+    .thank{
+        background-color: blanchedalmond;
+        color: grey;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        cursor: pointer;
+    }
+    .thank :hover{
+        background-color: blanchedalmond;
+        color: black;
+        
+    }
+
+
+    
+
